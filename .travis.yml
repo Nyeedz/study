@@ -17,4 +17,4 @@ cache:
 install:
   - npm ci
 script:
-  - npm run e2e
+  - cd angular/angular-testing-course && npm run e2e
